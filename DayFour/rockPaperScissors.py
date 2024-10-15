@@ -65,3 +65,5 @@ elif userChoise ==0 and compChoise !=0:
         print("Player Won")
     else:
         print("Computer Won")
+
+#The code is working but its a bit complicated and not optimized i will optimize it in a seprate file
